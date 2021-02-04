@@ -1,5 +1,6 @@
 import java.math.BigInteger;
 import java.util.Scanner;
+import java.util.concurrent.TimeUnit;
 
 public class mainRussianPeasantAlgorithm {
 	public static void main(String args[]) {
@@ -21,7 +22,10 @@ public class mainRussianPeasantAlgorithm {
 		BigInteger mod2 = new BigInteger("2");
 		BigInteger mod2answer = number1.mod(mod2);
 		BigInteger one = new BigInteger("1");
-
+		
+		//measuring time
+		long startTime = System.currentTimeMillis();
+		
 		//first part of the russian peasant algorithm
 		//if the first number is odd, add the second number to the result
 		if(number1.mod(mod2).equals(one)) {
@@ -37,6 +41,12 @@ public class mainRussianPeasantAlgorithm {
 				result =result.add(number2);
 			}
 		}
-		System.out.println(result);
+
+ 
+        //the code being measured ends
+        long endTime = System.currentTimeMillis();
+        long timeElapsed = endTime - startTime;
+        System.out.println("Execution time in milliseconds: " + timeElapsed);
+    
 	}
 }
