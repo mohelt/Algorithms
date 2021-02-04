@@ -41,7 +41,7 @@ public class mainRussianPeasantAlgorithm {
 				result =result.add(number2);
 			}
 		}
-
+		System.out.println(result);
  
         //the code being measured ends
         long endTime = System.currentTimeMillis();
