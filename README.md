@@ -1,10 +1,16 @@
 # comp20290-algorithms-2021
+## By Student Number: 19349633
 
-This repo is for you to track your work in the practicals for COMP20290 over the course. 
-You should commit both the java code you work on AND the completed short questions that you complete each week. 
+### The Labs
+[lab1-algorithm-analysis](https://github.com/CompAlgorithms/algorithms20290-2021-repository-mohelt/tree/main/wk2-algorithm-analysis)
+[lab2-complexity](https://github.com/CompAlgorithms/algorithms20290-2021-repository-mohelt/tree/main/wk3-complexity-analysis)
+[lab3-recursion](https://github.com/CompAlgorithms/algorithms20290-2021-repository-mohelt/tree/main/wk4-recursion-analysis)
+[lab4-elementary-sorting](https://github.com/CompAlgorithms/algorithms20290-2021-repository-mohelt/tree/main/wk5-elementary-sorting)
+[lab5-advancted-sortingI](https://github.com/CompAlgorithms/algorithms20290-2021-repository-mohelt/tree/main/wk6-advanced-sorting-algorithms-MergeSort)
+[lab6-advancted-sortingII](https://github.com/CompAlgorithms/algorithms20290-2021-repository-mohelt/tree/main/wk7-advanced-sorting-algorithms-QuickSort)
+[lab7-substring-search](https://github.com/CompAlgorithms/algorithms20290-2021-repository-mohelt/tree/main/wk8-searching-algorithms)
+[lab8-tries](https://github.com/CompAlgorithms/algorithms20290-2021-repository-mohelt/tree/main/wk9-tries)
+[lab9-data-compression](https://github.com/CompAlgorithms/algorithms20290-2021-repository-mohelt/tree/main/wk10-data-compression)
 
-We're looking to see regular commits over time, rather than one large commit before the submission deadline. 
-We want to see that you have attempted the questions from the practicals yourself rather than copying-and-pasting code
-and that this code is well documented (e.g., with a readme for your repository etc.).  
-
-Happy coding!
+Overall we have covered many topics, from algorithmic analysis as a foundation, to recursion and sorting.
+We have looked at many algorithms to give is a broad understanding of algorithms and the role they play in our society.
