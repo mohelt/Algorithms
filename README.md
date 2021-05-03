@@ -21,5 +21,6 @@
 -[lab9-data-compression](https://github.com/CompAlgorithms/algorithms20290-2021-repository-mohelt/tree/main/wk10-data-compression)
 
 
-*Overall we have covered many topics, from algorithmic analysis as a foundation, to recursion and sorting.
-*We have looked at many algorithms to give is a broad understanding of algorithms and the role they play in our society.
+-Overall we have covered many topics, from algorithmic analysis as a foundation, to recursion and sorting.
+
+-We have looked at many algorithms to give is a broad understanding of algorithms and the role they play in our society.
