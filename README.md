@@ -1,6 +1,16 @@
 # comp20290-algorithms-2021
 ## By Student Number: 19349633
 
+### The Assignment
+Teammates:
+Patrick O’Boyle – 19408716
+Mohammed Eltayeb – 19349633
+Tom Higgins - 19343176
+
+-[Answers to the Questions](https://github.com/CompAlgorithms/algorithms20290-2021-repository-mohelt/blob/main/compression-assignment/Compression%20Assignment%20Answers.pdf)
+-[Huffman Compression Algorithm for Task 2](https://github.com/CompAlgorithms/algorithms20290-2021-repository-mohelt/blob/main/compression-assignment/HuffmanCompression.java)
+-[Files required for Task 3](https://github.com/CompAlgorithms/algorithms20290-2021-repository-mohelt/tree/main/compression-assignment/Compressed%20and%20Decompressed%20Files)
+
 ### The Labs
 -[lab1-algorithm-analysis](https://github.com/CompAlgorithms/algorithms20290-2021-repository-mohelt/tree/main/wk2-algorithm-analysis)
 
